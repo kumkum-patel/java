@@ -1,7 +1,8 @@
 # java
 Java-8 features practice
 
-Stream API
-Optional Classes
-JavaScript Support
-DateTime API
+# New features
+Stream API <br />
+Optional Classes <br />
+JavaScript Support <br />
+DateTime API <br />
